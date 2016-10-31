@@ -1,6 +1,6 @@
 import React, {PropTypes} from 'react';
 
-class CoursesPage extends React.component {
+class CoursesPage extends React.Component {
   render () {
     return (
       <div>
