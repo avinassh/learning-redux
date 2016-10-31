@@ -7,6 +7,6 @@ import './styles/styles.css';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 
 render (
-  <Router history={browserHistory} ruotes={routes} />,
+  <Router history={browserHistory} routes={routes} />,
   document.getElementById('app')
 );
